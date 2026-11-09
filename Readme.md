@@ -1,8 +1,12 @@
-Section 1:
-- My First Langchain APP
+- Creating the Langchain Agent:
 
-Section 2:
-- Build a search Agent with Tools
+Example: Agent who search the Job Applications
 
-Section3:
-- Agents under the HOOD
+
+
+steps:
+- uv init
+- uv add langchain langchain-google-genai langchain_tavily python-dotenv black isort 
+
+
+
